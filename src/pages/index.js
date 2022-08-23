@@ -5,6 +5,8 @@ import { StaticImage } from "gatsby-plugin-image"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import * as styles from "../components/index.module.css"
+import cover from '../images/magazine-cover.png';
+import icon from '../images/symbol-gift.svg';
 
 const bullets = [
   {
@@ -19,25 +21,25 @@ const bullets = [
 
 const links = [
   {
-    text: "Tutorial",
+    text: "Article 1",
     url: "https://www.gatsbyjs.com/docs/tutorial",
     description:
       "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
   },
   {
-    text: "Examples",
+    text: "Article 2",
     url: "https://github.com/gatsbyjs/gatsby/tree/master/examples",
     description:
       "A collection of websites ranging from very basic to complex/complete that illustrate how to accomplish specific tasks within your Gatsby sites.",
   },
   {
-    text: "Plugin Library",
+    text: "Article 3",
     url: "https://www.gatsbyjs.com/plugins",
     description:
       "Learn how to add functionality and customize your Gatsby site or app with thousands of plugins built by our amazing developer community.",
   },
   {
-    text: "Build and Host",
+    text: "Article 4",
     url: "https://www.gatsbyjs.com/cloud",
     description:
       "Now you’re ready to show the world! Give your Gatsby site superpowers: Build and host on Gatsby Cloud. Get started for free!",
@@ -82,62 +84,60 @@ const utmParameters = `?utm_source=starter&utm_medium=start-page&utm_campaign=de
 
 const IndexPage = () => (
   <Layout>
-    <Seo title="Home" />
+    <Seo title="Home" />c
     <div className={styles.textCenter}>
-      <StaticImage
-        src="../images/example.png"
-        loading="eager"
-        width={64}
-        quality={95}
-        formats={["auto", "webp", "avif"]}
-        alt=""
-        style={{ marginBottom: `var(--space-3)` }}
-      />
-      <h1>
-        Welcome to <b>Gatsby!</b>
-      </h1>
-      <h2>
-        This is a homework for Julie 😍
-      </h2>
-      <ul className={styles.list}>
-        {bullets.map(bullet => (
-          <li className={styles.listItem}>
-            {bullet.text}
-            <p className={styles.listItemDescription}>{bullet.description}</p>
-          </li>
-        ))}
-      </ul>
-      <p className={styles.intro}>
-        <b>Example pages:</b>{" "}
-        {samplePageLinks.map((link, i) => (
-          <React.Fragment key={link.url}>
-            <Link to={link.url}>{link.text}</Link>
-            {i !== samplePageLinks.length - 1 && <> · </>}
-          </React.Fragment>
-        ))}
-        <br />
-        Edit <code>src/pages/index.js</code> to update this page.
-      </p>
+      <div className={styles.hero}>
+        <div className={styles.heroGroup}>
+          <h1>
+            THIS IS THE <b>TITLE</b>
+          </h1>
+          <p className={styles.publishedDate}>Published on 12th August 2022</p>
+          <img className={styles.coverImage} src={cover}/>
+          <p>Get the latest special issue! Summer is here. What is your plan for this year? Perhaps it is time to sail.</p>
+          <button className={styles.gradientCTA}>$3.99</button>
+        </div>
+        <div className={styles.heroGroup}>
+          <ul className={styles.list}>
+            {links.map(link => (
+              <li key={link.url} className={styles.listItem}>
+                <a
+                  className={styles.listItemLink}
+                  href={`${link.url}${utmParameters}`}
+                >
+                  {link.text}
+                </a>
+                <p className={styles.listItemDescription}>{link.description}</p>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>  
+      <div>
+        <div className={styles.textCenter}>
+          <p>
+            Two bulletpoints below are for Homework from Julie
+            <img className="icon" src={icon}/>
+          </p>          
+        </div>
+        <ul className={styles.list}>
+          {bullets.map(bullet => (
+            <li className={styles.listItem}>
+              {bullet.text}
+              <p className={styles.listItemDescription}>{bullet.description}</p>
+            </li>
+          ))}
+        </ul>
+        <p className={styles.intro}>
+          <b>Example pages:</b>{" "}
+          {samplePageLinks.map((link, i) => (
+            <React.Fragment key={link.url}>
+              <Link to={link.url}>{link.text}</Link>
+              {i !== samplePageLinks.length - 1 && <> · </>}
+            </React.Fragment>
+          ))}
+        </p>
+      </div>        
     </div>
-    <ul className={styles.list}>
-      {links.map(link => (
-        <li key={link.url} className={styles.listItem}>
-          <a
-            className={styles.listItemLink}
-            href={`${link.url}${utmParameters}`}
-          >
-            {link.text}
-          </a>
-          <p className={styles.listItemDescription}>{link.description}</p>
-        </li>
-      ))}
-    </ul>
-    {moreLinks.map((link, i) => (
-      <React.Fragment key={link.url}>
-        <a href={`${link.url}${utmParameters}`}>{link.text}</a>
-        {i !== moreLinks.length - 1 && <> · </>}
-      </React.Fragment>
-    ))}
   </Layout>
 )
 
