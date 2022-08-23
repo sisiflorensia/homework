@@ -6,6 +6,17 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 import * as styles from "../components/index.module.css"
 
+const bullets = [
+  {
+    text: "Bulletpoint #1",
+    description: "Just a test run",
+  },
+  {
+    text: "Bulletpoint #2",
+    description: "Another test run",
+  },
+]
+
 const links = [
   {
     text: "Tutorial",
@@ -85,7 +96,17 @@ const IndexPage = () => (
       <h1>
         Welcome to <b>Gatsby!</b>
       </h1>
-      <p>This is the homework from Julie.</p>
+      <h2>
+        This is a homework for Julie.
+      </h2>
+      <ul className={styles.list}>
+        {bullets.map(bullet => (
+          <li className={styles.listItem}>
+            {bullet.text}
+            <p className={styles.listItemDescription}>{bullet.description}</p>
+          </li>
+        ))}
+      </ul>
       <p className={styles.intro}>
         <b>Example pages:</b>{" "}
         {samplePageLinks.map((link, i) => (
@@ -105,7 +126,7 @@ const IndexPage = () => (
             className={styles.listItemLink}
             href={`${link.url}${utmParameters}`}
           >
-            {link.text} ↗
+            {link.text}
           </a>
           <p className={styles.listItemDescription}>{link.description}</p>
         </li>
