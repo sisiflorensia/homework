@@ -97,7 +97,7 @@ const IndexPage = () => (
         Welcome to <b>Gatsby!</b>
       </h1>
       <h2>
-        This is a homework for Julie.
+        This is a homework for Julie 😍
       </h2>
       <ul className={styles.list}>
         {bullets.map(bullet => (
