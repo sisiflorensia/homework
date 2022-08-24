@@ -51,15 +51,15 @@ const articleLinks = [
 
 const samplePageLinks = [
   {
-    text: "Page 2",
+    text: "PDF Toggle View",
     url: "page-2",
     badge: false,
     description:
       "A simple example of linking to another page within a Gatsby site",
   },
-  { text: "TypeScript", url: "using-typescript" },
-  { text: "Server Side Rendering", url: "using-ssr" },
-  { text: "Deferred Static Generation", url: "using-dsg" },
+  { text: "Embed View", url: "using-typescript" },
+  { text: "Opt-in", url: "using-ssr" },
+  { text: "Interactive Reading Experience", url: "using-dsg" },
 ]
 
 const moreLinks = [
