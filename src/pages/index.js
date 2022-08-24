@@ -5,8 +5,11 @@ import { StaticImage } from "gatsby-plugin-image"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import * as styles from "../components/index.module.css"
-import cover from '../images/magazine-cover.png';
-import icon from '../images/symbol-gift.svg';
+import cover from "../images/magazine-cover.png";
+import icon from "../images/symbol-gift.svg";
+import Article from "../components/article"
+
+// write
 
 const bullets = [
   {
@@ -19,7 +22,7 @@ const bullets = [
   },
 ]
 
-const links = [
+const articleLinks = [
   {
     text: "Article 1",
     url: "https://www.gatsbyjs.com/docs/tutorial",
@@ -84,12 +87,12 @@ const utmParameters = `?utm_source=starter&utm_medium=start-page&utm_campaign=de
 
 const IndexPage = () => (
   <Layout>
-    <Seo title="Home" />c
+    <Seo title="Home" />
     <div className={styles.textCenter}>
       <div className={styles.hero}>
         <div className={styles.heroGroup}>
           <h1>
-            THIS IS THE <b>TITLE</b>
+            THIS IS THE TITLE AND A LOT MORE
           </h1>
           <p className={styles.publishedDate}>Published on 12th August 2022</p>
           <img className={styles.coverImage} src={cover}/>
@@ -97,36 +100,25 @@ const IndexPage = () => (
           <button className={styles.gradientCTA}>$3.99</button>
         </div>
         <div className={styles.heroGroup}>
-          <ul className={styles.list}>
-            {links.map(link => (
-              <li key={link.url} className={styles.listItem}>
+          <div className={styles.cardGroup}>
+            <p className={styles.cardTitle}>
+              {articleLinks.length} articles from this collections
+            </p>
+            <div className="article">
+              {articleLinks.map(articleLink => (
                 <a
-                  className={styles.listItemLink}
-                  href={`${link.url}${utmParameters}`}
+                  href={`${articleLink.url}${utmParameters}`}
                 >
-                  {link.text}
+                <Article 
+                  title={articleLink.text}
+                  description={articleLink.description}/>
                 </a>
-                <p className={styles.listItemDescription}>{link.description}</p>
-              </li>
-            ))}
-          </ul>
+              ))}
+            </div>
+          </div>
         </div>
       </div>  
       <div>
-        <div className={styles.textCenter}>
-          <p>
-            Two bulletpoints below are for Homework from Julie
-            <img className="icon" src={icon}/>
-          </p>          
-        </div>
-        <ul className={styles.list}>
-          {bullets.map(bullet => (
-            <li className={styles.listItem}>
-              {bullet.text}
-              <p className={styles.listItemDescription}>{bullet.description}</p>
-            </li>
-          ))}
-        </ul>
         <p className={styles.intro}>
           <b>Example pages:</b>{" "}
           {samplePageLinks.map((link, i) => (
