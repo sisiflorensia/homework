@@ -55,14 +55,14 @@
 
 .hero {
     background: url('../images/Hero.png');
-    height: 1000px;
+    min-height: 1000px;
     background-size: cover;
     background-position: center;
     display: flex;
   }
 
 .heroGroup {
-  padding: 100px 60px;
+  padding: 120px 60px;
   margin: 0px auto;
   flex: 33%;
   max-width: 550px;
@@ -83,6 +83,7 @@
   background: linear-gradient(90deg, #4B26FF, #B01EFF);
   font-weight: 700;
   border-radius: 20px;
+  opacity: 0.9;
   color: #ffffff;
   transition: 0.5s;
 }
@@ -100,6 +101,19 @@
 
 .coverImage {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25);
+}
+
+.cardGroup {
+  background: #f2f2f2;
+  text-align: left;
+  padding: 16px;
+  border-radius: 8px;
+}
+
+.cardTitle {
+  text-align: left;
+  font-size: 20px;
+  margin: 0px auto;
 }
 
 @keyframes heroAnimation {
