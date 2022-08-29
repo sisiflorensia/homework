@@ -8,6 +8,7 @@ import * as styles from "../components/index.module.css"
 import cover from "../images/magazine-cover.png";
 import icon from "../images/symbol-gift.svg";
 import Article from "../components/article"
+import Section from "../components/section"
 
 // write
 
@@ -86,7 +87,7 @@ const moreLinks = [
 const utmParameters = `?utm_source=starter&utm_medium=start-page&utm_campaign=default-starter`
 
 const IndexPage = () => (
-  <Layout>
+  <Layout type='home'>
     <Seo title="Home" />
     <div className={styles.textCenter}>
       <div className={styles.hero}>
@@ -95,7 +96,7 @@ const IndexPage = () => (
             THIS IS THE TITLE AND A LOT MORE
           </h1>
           <p className={styles.publishedDate}>Published on 12th August 2022</p>
-          <img className={styles.coverImage} src={cover}/>
+          <img className={styles.coverImage} src='https://cdn.magloft.com/pwa-24/pdf-import/cover/bc8bb718-f6f6-4f5c-ab2d-ece1fd99148e.jpg?optimizer=image&width=512'/>
           <p>Get the latest special issue! Summer is here. What is your plan for this year? Perhaps it is time to sail.</p>
           <button className={styles.gradientCTA}>$3.99</button>
         </div>
