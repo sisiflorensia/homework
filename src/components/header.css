@@ -36,11 +36,11 @@
     transition: 0.5s;
 }
 .header button:hover {
-    scale: 1.1;
+    scale: 1.02;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25);
     background-color: #0500FF;
     color: #fff;
-    transition: 0.5s;
+    transition: 0.2s;
 }
 
 .headerScrolled {
@@ -73,9 +73,6 @@
 }
 
 @media (max-width: 640px) {
-    .header {
-        padding: 15px 0px ;
-    }
     .headerGroup {
         grid-template-columns: repeat(4, auto);
     }

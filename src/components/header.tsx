@@ -10,8 +10,7 @@ class Header extends React.Component {
   constructor(props){
     super(props)
     this.state = {
-      hasScrolled : false,
-      mivisionJoinDate: '2017-08-09'
+      hasScrolled : false
     }
   }
     
