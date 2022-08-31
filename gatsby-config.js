@@ -3,11 +3,10 @@ module.exports = {
     title: `Sisi's Homework Site`,
     description: `This site is created during my learning of React with Julie & Toby`,
     author: `@gatsbyjs`,
-    siteUrl: `sissi.tech`,
   },
   plugins: [
+    `gatsby-plugin-typescript`,
     `gatsby-plugin-image`,
-    `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {

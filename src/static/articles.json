@@ -1,0 +1,371 @@
+[
+    {
+        "id": 144448,
+        "issueId": 44367,
+        "title": "WORLD'S LEADERS",
+        "slug": "worlds-leaders",
+        "description": "Converted using MagLoft's Professional PDF to HTML Content Conversion Service",
+        "date": 1647501583000,
+        "cover": "https://cdn.magloft.com/publication-102/screenshots/articles/144448.jpg?ts=1647570286",
+        "image": null,
+        "categoryIds": [
+            40125
+        ],
+        "pwaOptinId": null,
+        "seoDescription": null,
+        "position": 4,
+        "unlockType": "free",
+        "replicaPageIndex": 4,
+        "html": "<page-widget padding=\"0 0 32 0\"><container-widget padding=\"0 0 32 0\" background-color=\"rgba(230,230,232,1)\"><image-widget padding=\"40 24 24 24\" aspect-ratio=\"0.06356413166855845\" magnify-label=\"center\" source=\"https://mms.magloft.com/ibdUfcEp5dRfaxZy/2GxABSsgfttfxYvd#image/png\"></image-widget><heading-widget padding=\"0 24 16 24\" align=\"center\" font-size=\"80\" type=\"h3\"><span style=\"color: rgb(74,74,76)\" class=\"__bold\">ABOUT US</span></heading-widget><paragraph-widget padding=\"0 24 8 24\" line-height=\"1.5\"><span style=\"font-family: &quot;Helvetica Neue&quot;; color: rgb(121, 121, 121);\">World's Leaders Magazine is a Media Company that covers stories of business leaders around the globe. Consistent updates to our online publication, internet based life and master sentiment give a substance rich pursuing knowledge loaded up with fascinating perspectives and remark on the issues of the worldwide business. World's Leaders Magazine inspires readers and users to think beyond traditional boundaries, lead conversations and create the future of business. Everyone wants to know the journey of a successful personality or a venture. They want to know more about the establishment, about the path that led them to the pinnacle, about the obstacles overcome, and the all hard work about the Success. World's Leaders Magazine is the platform, where we are unwinding the untold stories of business leaders and the stories of startup turning into the venture. World's Leaders Magazine is a trustworthy and honesty acquiring acknowledgment f rom business pioneers universally.</span></paragraph-widget></container-widget><columns-widget padding=\"32 0 0 0\"><column-widget><container-widget></container-widget></column-widget><column-widget><container-widget><heading-widget padding=\"16 24 16 24\" border-radius=\"18 18 18 18\" background-color=\"rgba(114,115,119,1)\" align=\"center\" font-size=\"80\" type=\"h3\"><span class=\"__bold\" style=\"font-family: &quot;Helvetica Neue&quot;; color: rgb(255, 254, 254);\">OUR TEAM</span></heading-widget></container-widget></column-widget><column-widget><container-widget></container-widget></column-widget></columns-widget><paragraph-widget padding=\"16 24 16 24\" align=\"center\">EDITOR IN CHIEF <br><span class=\"__bold\" style=\"color: rgb(215, 5, 49);\">STEVE SANCHEZ</span></paragraph-widget><paragraph-widget padding=\"16 24 16 24\" align=\"center\">ART &amp; DESIGN DIRECTOR <br><span style=\"color: rgb(215, 5, 49);\" class=\"__bold\">JACK ANDERSON</span></paragraph-widget><paragraph-widget padding=\"16 24 16 24\" align=\"center\">SALES MANAGER MEGAN MORGAN, <br><span class=\"__bold\" style=\"color: rgb(215, 5, 49);\">KATE ANDERSON</span></paragraph-widget><paragraph-widget padding=\"0 24 8 24\" align=\"center\">BUSINESS DEVELOPMENT MANAGER <br><span class=\"__bold\" style=\"color: rgb(215, 5, 49);\">GRACE NELSON, ANNA CARTER</span></paragraph-widget><horizontal-rule-widget padding=\"24 0 24 0\" color=\"#727272\"></horizontal-rule-widget><paragraph-widget padding=\"0 24 8 24\" align=\"center\">FOR EDITORIAL ENQUIRES | <a href=\"mailto:info@worldsleaders.com\" target=\"_self\"><span class=\"__bold\" style=\"color: rgb(215, 5, 49);\">info@worldsleaders.com</span></a></paragraph-widget><paragraph-widget padding=\"0 24 8 24\" align=\"center\">ADDRESS <br><span class=\"__bold\" style=\"color: rgb(215, 5, 49);\">200 Broadway, New York, NY 10038, US</span></paragraph-widget></page-widget>",
+        "articleAssets": [
+            {
+                "url": "https://cdn.magloft.com/reader/fonts/open-sans.css",
+                "extension": "css",
+                "contentType": "text/css",
+                "__typename": "ArticleAssets"
+            },
+            {
+                "url": "https://cdn.magloft.com/reader/fonts/helvetica-neue.css",
+                "extension": "css",
+                "contentType": "text/css",
+                "__typename": "ArticleAssets"
+            },
+            {
+                "url": "https://mms.magloft.com/ibdUfcEp5dRfaxZy/2GxABSsgfttfxYvd",
+                "extension": "png",
+                "contentType": "image/png",
+                "__typename": "ArticleAssets"
+            }
+        ],
+        "__typename": "Article"
+    },
+    {
+        "id": 144449,
+        "issueId": 44367,
+        "title": "OKSANA KOLESNIKOVA",
+        "slug": "oksana-kolesnikova-01647501584",
+        "description": "CEO & franchisor | Oksana Franchising International, Inc.",
+        "date": 1647501583000,
+        "cover": "https://cdn.magloft.com/publication-102/screenshots/articles/144449.jpg?ts=1647570438",
+        "image": "https://cdn.magloft.com/pdf-import/257/images/img_1-1.jpg",
+        "categoryIds": [],
+        "pwaOptinId": null,
+        "seoDescription": "CEO & franchisor | Oksana Franchising International, Inc.",
+        "position": 1,
+        "unlockType": "free",
+        "replicaPageIndex": null,
+        "html": "<page-widget><image-widget aspect-ratio=\"1.3125\" magnify-label=\"center\" source=\"https://mms.magloft.com/ibdUfcEp5dRfaxZy/PZ1lxhOFhhxjSo3Q#image/jpeg\"></image-widget></page-widget>",
+        "articleAssets": [
+            {
+                "url": "https://mms.magloft.com/ibdUfcEp5dRfaxZy/PZ1lxhOFhhxjSo3Q",
+                "extension": "jpeg",
+                "contentType": "image/jpeg",
+                "__typename": "ArticleAssets"
+            },
+            {
+                "url": "https://cdn.magloft.com/reader/fonts/open-sans.css",
+                "extension": "css",
+                "contentType": "text/css",
+                "__typename": "ArticleAssets"
+            }
+        ],
+        "__typename": "Article"
+    },
+    {
+        "id": 144450,
+        "issueId": 44367,
+        "title": "BOSE",
+        "slug": "bose-41647501584",
+        "description": null,
+        "date": 1647501583000,
+        "cover": "https://cdn.magloft.com/publication-102/screenshots/articles/144450.jpg?ts=1647570636",
+        "image": "https://cdn.magloft.com/pdf-import/257/images/img_6-1.jpg",
+        "categoryIds": [],
+        "pwaOptinId": null,
+        "seoDescription": null,
+        "position": 5,
+        "unlockType": "free",
+        "replicaPageIndex": 5,
+        "html": "<page-widget><container-widget background-image=\"https://mms.magloft.com/ibdUfcEp5dRfaxZy/cXvQf5p59jKx2SOs#image/png\" full-height=\"\" flex=\"center center\"><image-widget padding=\"0 0 16 0\" aspect-ratio=\"0.656\" magnify-label=\"center\" source=\"https://cdn.magloft.com/pdf-import/257/images/img_6-1.jpg#image/jpeg\"></image-widget></container-widget></page-widget>",
+        "articleAssets": [
+            {
+                "url": "https://cdn.magloft.com/reader/fonts/open-sans.css",
+                "extension": "css",
+                "contentType": "text/css",
+                "__typename": "ArticleAssets"
+            },
+            {
+                "url": "https://mms.magloft.com/ibdUfcEp5dRfaxZy/cXvQf5p59jKx2SOs",
+                "extension": "png",
+                "contentType": "image/png",
+                "__typename": "ArticleAssets"
+            },
+            {
+                "url": "https://cdn.magloft.com/pdf-import/257/images/img_6-1.jpg",
+                "extension": "jpeg",
+                "contentType": "image/jpeg",
+                "__typename": "ArticleAssets"
+            }
+        ],
+        "__typename": "Article"
+    },
+    {
+        "id": 144451,
+        "issueId": 44367,
+        "title": "Canon",
+        "slug": "canon-61647501584",
+        "description": null,
+        "date": 1647501583000,
+        "cover": "https://cdn.magloft.com/publication-102/screenshots/articles/144451.jpg?ts=1647570685",
+        "image": "https://cdn.magloft.com/pdf-import/257/images/img_14-1.jpg",
+        "categoryIds": [],
+        "pwaOptinId": null,
+        "seoDescription": null,
+        "position": 7,
+        "unlockType": "free",
+        "replicaPageIndex": 13,
+        "html": "<page-widget><container-widget background-image=\"https://mms.magloft.com/ibdUfcEp5dRfaxZy/OoBhQXlM7BJGP8qA#image/png\" full-height=\"\" flex=\"center center\"><image-widget aspect-ratio=\"0.656\" magnify-label=\"center\" source=\"https://cdn.magloft.com/pdf-import/257/images/img_14-1.jpg#image/jpeg\"></image-widget></container-widget></page-widget>",
+        "articleAssets": [
+            {
+                "url": "https://cdn.magloft.com/pdf-import/257/images/img_14-1.jpg",
+                "extension": "jpeg",
+                "contentType": "image/jpeg",
+                "__typename": "ArticleAssets"
+            },
+            {
+                "url": "https://cdn.magloft.com/reader/fonts/open-sans.css",
+                "extension": "css",
+                "contentType": "text/css",
+                "__typename": "ArticleAssets"
+            },
+            {
+                "url": "https://mms.magloft.com/ibdUfcEp5dRfaxZy/OoBhQXlM7BJGP8qA",
+                "extension": "png",
+                "contentType": "image/png",
+                "__typename": "ArticleAssets"
+            }
+        ],
+        "__typename": "Article"
+    },
+    {
+        "id": 144452,
+        "issueId": 44367,
+        "title": "SAMSUNG",
+        "slug": "samsung-11647501584",
+        "description": null,
+        "date": 1647501583000,
+        "cover": "https://cdn.magloft.com/publication-102/screenshots/articles/144452.jpg?ts=1647570732",
+        "image": "https://cdn.magloft.com/pdf-import/257/images/img_2-1.jpg",
+        "categoryIds": [],
+        "pwaOptinId": null,
+        "seoDescription": null,
+        "position": 2,
+        "unlockType": "free",
+        "replicaPageIndex": 1,
+        "html": "<page-widget><container-widget background-image=\"https://mms.magloft.com/ibdUfcEp5dRfaxZy/CX1O5kmrvMMu3MOV#image/png\" full-height=\"\" flex=\"center center\"><image-widget padding=\"8 0 16 0\" aspect-ratio=\"0.656\" magnify-label=\"center\" source=\"https://cdn.magloft.com/pdf-import/257/images/img_2-1.jpg#image/jpeg\"></image-widget></container-widget></page-widget>",
+        "articleAssets": [
+            {
+                "url": "https://cdn.magloft.com/reader/fonts/open-sans.css",
+                "extension": "css",
+                "contentType": "text/css",
+                "__typename": "ArticleAssets"
+            },
+            {
+                "url": "https://mms.magloft.com/ibdUfcEp5dRfaxZy/CX1O5kmrvMMu3MOV",
+                "extension": "png",
+                "contentType": "image/png",
+                "__typename": "ArticleAssets"
+            },
+            {
+                "url": "https://cdn.magloft.com/pdf-import/257/images/img_2-1.jpg",
+                "extension": "jpeg",
+                "contentType": "image/jpeg",
+                "__typename": "ArticleAssets"
+            }
+        ],
+        "__typename": "Article"
+    },
+    {
+        "id": 144453,
+        "issueId": 44367,
+        "title": "Aspiring to Make Change",
+        "slug": "aspiring-to-make-change-21647501584",
+        "description": "Converted using MagLoft's Professional PDF to HTML Content Conversion Service",
+        "date": 1647501583000,
+        "cover": "https://cdn.magloft.com/publication-102/screenshots/articles/144453.jpg?ts=1658380253",
+        "image": "https://cdn.magloft.com/pdf-import/257/images/img_4-1.jpg",
+        "categoryIds": [
+            40125
+        ],
+        "pwaOptinId": null,
+        "seoDescription": null,
+        "position": 3,
+        "unlockType": "free",
+        "replicaPageIndex": 3,
+        "html": "<page-widget padding=\"0 0 24 0\" font-family=\"Times New Roman\"><image-widget aspect-ratio=\"0.4839549002601908\" magnify-label=\"center\" source=\"https://cdn.magloft.com/pdf-import/257/images/img_4-1.jpg#image/jpeg\" flex=\"center right\"><image-widget padding=\"8 40 16 40\" aspect-ratio=\"1.2991452991452992\" magnify-label=\"center\" source=\"https://cdn.magloft.com/pdf-import/257/images/img_4-4.jpg#image/jpeg\" width=\"150px\"></image-widget></image-widget><columns-widget padding=\"24 24 24 24\" collapse=\"phone\" layout=\"4 3 5\"><column-widget><horizontal-rule-widget width=\"2\"></horizontal-rule-widget></column-widget><column-widget><paragraph-widget padding=\"0 0 0 0\" align=\"center\"><span style=\"font-family: &quot;Helvetica Neue&quot;; color: rgb(215, 5, 49);\">Editororial Note</span></paragraph-widget></column-widget><column-widget><horizontal-rule-widget width=\"2\"></horizontal-rule-widget></column-widget></columns-widget><paragraph-widget padding=\"0 24 48 24\" align=\"center\" font-size=\"160\"><span style=\"font-family: &quot;Franklin Gothic&quot;; color: rgb(61, 61, 61);\">World's 10 Most Successful Women Entrepreneurs Making a Difference, 2021</span></paragraph-widget><heading-widget padding=\"0 24 16 24\" font-size=\"60\" type=\"h2\"><span class=\"__bold\" style=\"color: rgb(215, 5, 49);\">Aspiring to Make Change</span></heading-widget><columns-widget padding=\"0 24 0 24\" collapse=\"phone\" gutter=\"20\"><column-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">Today, women are leading in every arena of the globe, from generating opportunity to tearing down barriers of old standards and building paths for future generations. Women have achieved numerous milestones throughout history, and they have been equally active as men in every large or little movement of change that has had a good and enduring influence on others.<br><br></paragraph-widget><paragraph-widget padding=\"0 24 0 0\" font-size=\"90\">Women today are not just follower of an idea but they are creating one. They are dedicated to bring and transform an idea into reality. Their dedication and focus towards achieving goals is significant and efforts are undeniable.<br><br></paragraph-widget><paragraph-widget padding=\"0 24 0 0\" line-height=\"1.5\" font-size=\"90\">Women business executives from all around the world have also offered support for other women, regardless of their sector.<br><br></paragraph-widget><paragraph-widget padding=\"0 24 0 0\" line-height=\"1.5\" font-size=\"90\">Women continue to make great strides in the workplace. They are the founders of cutting-edge businesses, offering game-changing new ideas and paving the way for healthy work culture and worker equity.<br><br></paragraph-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">World's Leaders has created a list of 10 excellent women business leaders in its forthcoming edition \"World's 10 Most Successful Women Entrepreneurs Making a Difference, 2021\" to offer recognition for their outstanding work and efforts, as well as to praise these women leaders who are making both major and little improvements every day. These businesswomen are role models for aspiring businesswomen and provide a valuable lesson for aspiring businesswomen.<br><br></paragraph-widget></column-widget><column-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">The cover story features Oksana Kolesnikova. She is the CEO and franchisor at Oksana Franchising International, Inc. As a multi-role entrepreneur, she is also a live performer; founder of a School of Music; musical collaborator; philanthropist. According to Oksana, female business leaders have already come so far in the world of business. She mentions that all successful and emerging women leaders should be forever grateful to those brave female figures of the past who paved the road for them and, ultimately, faced far more challenges with regard to gender discrimination in the male-domineering world of business; a notion that traces back as little as half a century ago. Just as any business individual and entrepreneur, Oksana herself endured many struggles on the journey of growing her enterprises, but she points out that none of them were related to gender inequality.<br><br></paragraph-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">Also, there are few other inspiring stories to read which represent a view for emerging leaders. Also never stop learning with our CXO standpoints written by the industry experts and the creative articles by our in-house editorial team which will help to improve your skillset.<br><br></paragraph-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">Let's Delve!</paragraph-widget></column-widget></columns-widget></page-widget>",
+        "articleAssets": [
+            {
+                "url": "https://cdn.magloft.com/reader/fonts/franklin-gothic.css",
+                "extension": "css",
+                "contentType": "text/css",
+                "__typename": "ArticleAssets"
+            },
+            {
+                "url": "https://cdn.magloft.com/pdf-import/257/images/img_4-4.jpg",
+                "extension": "jpeg",
+                "contentType": "image/jpeg",
+                "__typename": "ArticleAssets"
+            },
+            {
+                "url": "https://cdn.magloft.com/reader/fonts/times-new-roman.css",
+                "extension": "css",
+                "contentType": "text/css",
+                "__typename": "ArticleAssets"
+            },
+            {
+                "url": "https://cdn.magloft.com/reader/fonts/helvetica-neue.css",
+                "extension": "css",
+                "contentType": "text/css",
+                "__typename": "ArticleAssets"
+            },
+            {
+                "url": "https://cdn.magloft.com/pdf-import/257/images/img_4-1.jpg",
+                "extension": "jpeg",
+                "contentType": "image/jpeg",
+                "__typename": "ArticleAssets"
+            }
+        ],
+        "__typename": "Article"
+    },
+    {
+        "id": 144454,
+        "issueId": 44367,
+        "title": "OKSANA KOLESNIKOVA",
+        "slug": "oksana-kolesnikova-51647501584",
+        "description": "Converted using MagLoft's Professional PDF to HTML Content Conversion Service",
+        "date": 1647501583000,
+        "cover": "https://cdn.magloft.com/publication-102/screenshots/articles/144454.jpg?ts=1658380585",
+        "image": "https://cdn.magloft.com/pdf-import/257/images/img_8-1.jpg",
+        "categoryIds": [
+            40127,
+            40131,
+            40125
+        ],
+        "pwaOptinId": null,
+        "seoDescription": "A Compelling Story of Inspiration and Dedication",
+        "position": 6,
+        "unlockType": "free",
+        "replicaPageIndex": 7,
+        "html": "<page-widget padding=\"0 0 24 0\" font-family=\"Times New Roman\"><image-widget aspect-ratio=\"0.656\" magnify-label=\"center\" source=\"https://cdn.magloft.com/pdf-import/257/images/img_8-1.jpg#image/jpeg\" flex=\"bottom stretch\"></image-widget><container-widget padding=\"24 0 24 0\" background-color=\"rgba(116,21,21,1)\"><paragraph-widget padding=\"0 24 0 24\" font-size=\"130\"><span style=\"font-family: &quot;Helvetica Neue&quot;; color: rgb(255, 254, 254);\">A Compelling Story of Inspiration and Dedication</span></paragraph-widget><horizontal-rule-widget padding=\"0 24 0 24\" color=\"#fffefe\" width=\"2\"></horizontal-rule-widget><paragraph-widget padding=\"0 24 0 24\"><span style=\"font-family: &quot;Helvetica Neue&quot;; color: rgb(255, 254, 254);\">CEO &amp; Franchisor | Oksana Franchising International, Inc.</span></paragraph-widget></container-widget><paragraph-widget padding=\"32 24 0 24\" line-height=\"1.5\" font-size=\"90\">Never give up, believe in yourself and your vision. When pursuing a true passion for what you do, that may actually benefit others, people will take notice and most will support you in this mission. When the going gets tough, don't lose focus; there is always that ray of sunshine at the end of the storm”, says Oksana Kolesnikova. She is the CEO and franchisor at Oksana Franchising International, Inc. As a multi-role entrepreneur, she is also a live performer; founder of a School of Music; musical collaborator; philanthropist.<br><br></paragraph-widget><columns-widget padding=\"0 24 0 24\" collapse=\"phone\" gutter=\"16\"><column-widget><heading-widget padding=\"0 0 16 0\" font-size=\"50\" type=\"h3\"><span style=\"color: rgb(84,5,8)\" class=\"__bold\">Journey; A Renowned Pianist to Inspiring Entrepreneur</span></heading-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">Oksana emigrated with her family from Russia following the fall of the Soviet Union in 1993, initially settling in Florida when she reached the United States. While pursuing her passion for music, she went to study at St. Petersburg College and Florida State University.<br><br></paragraph-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">Soon after graduation, she went on to perform across the U.S. and on television and became the first Russian- American female pianist to travel overseas to entertain U.S. military personnel, a career move that encompassed several world tours on behalf of the Morale, Welfare and Recreation Department of the U.S. <br><br></paragraph-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\"><span style=\"color: rgb(0,0,0)\">Navy </span>and a solo tour to entertain U.S. troops in Italy, Spain, and Greece.<br><br></paragraph-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">The responsibilities changed after she became a mom, and had resigned from her busy touring lifestyle and transition into becoming a businesswoman. She states, <span class=\"__italic\">“A transition that was the direct result of performing daily for countless celebrities and business leaders as the in-house pianist at the legendary Polo Lounge in the world-famous&nbsp;Beverly Hills Hotel between 2006 and 2013.”<br><br></span></paragraph-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">After her transition as a businesswoman she initially set out teaching piano to a roster of celebrities and their kids, and gradually, over several years, this business venture expanded into offering tutoring for different subjects. She states, “It was at this point that I launched my first company, Oksana Management Group, Inc. (<a class=\"__link\" target=\"_blank\" href=\"https://www.OksanaManagementGroup.com\">www.OksanaManagementGroup.com</a>) in 2010, a smoothly-operating business that, to this very day, offers programs in music (piano, voice, guitar, singing, and more); foreign languages (Spanish, Italian, French, Chinese, Korean, Russian, Hebrew, Farsi and beyond); academic tutoring and test prep in all subjects for K through 12 as well as art (drawing and painting), acting and drama, fitness, yoga, cooking classes, martial arts, summer camps, and STEAM initiatives.” <br><br></paragraph-widget></column-widget><column-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">The business model born out of OMG, Inc. proved to be successful, withstanding the test of time in addition to a myriad of other challenges. In 2019, Oksana opened her second company, Oksana Franchising International, Inc. (dba <a href=\"http://www.OksanaEnrichment.com\" target=\"_blank\">www.OksanaEnrichment.com</a>); for this endeavor, she decided to apply the success of the business model to create a national franchise system, which proved to be a natural evolution with regard to scaling and expanding the brand.<br><br></paragraph-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">This new beginning also presented an opportunity to allow other entrepreneurs to flourish in this exciting field by way of joining the company's franchise network; indeed, today's Oksana Enrichment offers franchising opportunities to entrepreneurs looking to work in the areas of education, tutoring, afterschool enrichment, local youthoriented community classes/programs, adults/seniors activities, and the online community. She asserts, “We offer a myriad of programs not only for students preferring private, one-on-one tutoring but also for the public, private and charter schools, districts, municipalities, and counties.” <br><br></paragraph-widget><heading-widget padding=\"0 0 16 0\" font-size=\"50\" type=\"h3\"><span style=\"color: rgb(84,5,8)\" class=\"__bold\">Women Empowerment and the Long Struggle to Achieve it</span></heading-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">According to Oksana, female business leaders have already come so far in the world of business. She mentions that all successful and emerging women leaders should be forever grateful to those brave female figures of the past who paved the road for them and, ultimately, faced far more challenges with regard to gender discrimination in the male-domineering world of business; a notion that traces back as little as half a century ago. Just as any business individual and entrepreneur, Oksana herself endured many struggles on the journey of growing her enterprises, but she points out that none of them were related to gender inequality.<br><br></paragraph-widget></column-widget><column-widget><heading-widget padding=\"0 0 16 0\" font-size=\"50\" type=\"h3\"><span style=\"color: rgb(84,5,8)\" class=\"__bold\">Franchise; Misconceptions and Reality</span></heading-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">When it comes to the franchise industry there are many misconceptions. Oksana wants to provide more reliable sources of information on the web and not just one-sided data based on stories of failure and “scare” tactics. She is rather showcasing and sharing more of the reliable and proven success stories. She says, <span class=\"__italic\">“What bugs me the most is that there have been plenty of successes achieved by individuals operating in this industry, but they have, unfortunately, been overshadowed by the aforementioned failure numbers; as such, many people that want to get into this industry are discouraged long before they are willing to give it a try.”</span> People end up reading a lot of rhetoric filled with drama, failures, and misconceptions, which normally pop up in overwhelming quantities when one is doing online research.<br><br></paragraph-widget></column-widget></columns-widget><image-widget aspect-ratio=\"1.3113616652211622\" magnify-label=\"center\" source=\"https://cdn.magloft.com/pdf-import/257/images/img_11-3.jpg#image/jpeg\" flex=\"bottom center\"><image-widget padding=\"8 0 40 0\" aspect-ratio=\"0.28\" magnify-label=\"center\" source=\"https://cdn.magloft.com/pdf-import/257/images/img_11-2.jpg#image/jpeg\"></image-widget></image-widget><image-widget parallax=\"0.6\" aspect-ratio=\"1.3113616652211622\" magnify-label=\"center\" source=\"https://cdn.magloft.com/pdf-import/257/images/img_12-1.jpg#image/jpeg\"></image-widget><image-widget padding=\"32 32 40 32\" aspect-ratio=\"0.47938931297709925\" magnify-label=\"center\" source=\"https://cdn.magloft.com/pdf-import/257/images/img_13-1.jpg#image/jpeg\" width=\"500px\"></image-widget><columns-widget padding=\"0 24 0 24\" collapse=\"phone\"><column-widget><heading-widget padding=\"0 0 16 0\" font-size=\"50\" type=\"h3\"><span style=\"color: rgb(84,5,8)\" class=\"__bold\">Dwelling in Piano Melodies</span></heading-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">Being in the artistic industry is a work of dedication to create something genuine. This process demands time.<br><br></paragraph-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">Oksana's days are so consumed with running her businesses and working with consulting clients, protégé pupils, and franchisees. With this working schedule, she rarely has enough time to work on art. She says, “The only time I really have for this is when I go on vacation – whenever that happens.” <br><br></paragraph-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">She considers that traveling and being inspired by new places is what ignites her creativity. She is relaxed and not constantly bombarded by business calls, texts, emails, and issues. During this time she experiences some tranquility, tuning to her own inner creative world and hearing the beautiful piano melodies inside her head.<br><br></paragraph-widget><heading-widget padding=\"0 0 16 0\" font-size=\"50\" type=\"h3\"><span style=\"color: rgb(84,5,8)\" class=\"__bold\">Following Dreams</span></heading-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">Pursuing dreams is in itself a great risk as there is no surety of success. Oksana asserts, “I would have to say that pursuing my music in opposition to what others around me were saying about the lack of money in it and how difficult it would be for me to achieve success is the one that stands out.”<br><br></paragraph-widget></column-widget><column-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">After all the challenges Oksana's big moment was launching her business, despite naysayers constantly warning her about failure. “I had heard it all, from the notion that nine out of 10 businesses fail and the economy is bad to the fact that competition is too fierce. Now, years later, I believe I made the right choices by following my passions. In retrospect, all I can say is that success speaks for itself,” says Oksana.<br><br></paragraph-widget><heading-widget padding=\"0 0 16 0\" font-size=\"50\" type=\"h3\"><span style=\"color: rgb(84,5,8)\" class=\"__bold\">A Proud Mom</span></heading-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">In believing that life should be a matter of balance, Oksana's favorite pastime outside of work and performing is to be in the company of her family. She says, “I'm the proud mom of 11-year-old Alessandro Concas, who is already quite the successful and ambitious young entrepreneur. At the age of eight, he released his own books entitled The A to Z's of Fighting Boredom, and Life of the Time Cat: Rise of Catastrophyre at the age of nine.<br><br></paragraph-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">She further adds that Alessandro has also turned out to be quite the talented pianist himself, entertaining groups with his impressive skills on the keys. She asserts, “I love spending my free time with him while teaching him everything about the business, music, and other important life tools.” <br><br></paragraph-widget></column-widget><column-widget><heading-widget padding=\"0 0 16 0\" font-size=\"50\" type=\"h3\"><span class=\"__bold\" style=\"color: rgb(84,5,8)\">Giving Back to the Community</span></heading-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">Oksana's third and more recent business venture came in the form of a nonprofit. She always dreamt of having her foundation one day to give back to communities. She opines, “I have always had a burning desire to help underprivileged, challenged youth by offering them educational opportunities that they otherwise could never afford. These dreams became a reality when the unfortunate current events we find ourselves in lead to the launch of my nonprofit Oksana®Foundation (<a href=\"http://www.OksanaFoundation.org\" target=\"_blank\">www.OksanaFoundation.org</a>).” <br><br></paragraph-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">Since the start of the pandemic, the Oksana®Foundation has been providing free-of-charge online music programs to children aged seven through 13 and who has been confined at home due to social distancing measures. A plethora of children have joined virtual classrooms every week to master a new skill, and the foundation has been welcoming more students who wish to join regardless of where they're located in the world.<br><br></paragraph-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">To learn and know more about Oksana Kolesnikova's work and how she is helping children to see and learn music on a deeper level, visit her YouTube channel; oksanabella, Instagram Page; omgoksana, and Facebook account; <a href=\"http://facebook.com/pianistoksana\" target=\"_blank\">facebook.com/pianistoksana</a></paragraph-widget></column-widget></columns-widget></page-widget>",
+        "articleAssets": [
+            {
+                "url": "https://cdn.magloft.com/pdf-import/257/images/img_12-1.jpg",
+                "extension": "jpeg",
+                "contentType": "image/jpeg",
+                "__typename": "ArticleAssets"
+            },
+            {
+                "url": "https://cdn.magloft.com/pdf-import/257/images/img_11-2.jpg",
+                "extension": "jpeg",
+                "contentType": "image/jpeg",
+                "__typename": "ArticleAssets"
+            },
+            {
+                "url": "https://cdn.magloft.com/pdf-import/257/images/img_8-1.jpg",
+                "extension": "jpeg",
+                "contentType": "image/jpeg",
+                "__typename": "ArticleAssets"
+            },
+            {
+                "url": "https://cdn.magloft.com/reader/fonts/times-new-roman.css",
+                "extension": "css",
+                "contentType": "text/css",
+                "__typename": "ArticleAssets"
+            },
+            {
+                "url": "https://cdn.magloft.com/reader/fonts/helvetica-neue.css",
+                "extension": "css",
+                "contentType": "text/css",
+                "__typename": "ArticleAssets"
+            },
+            {
+                "url": "https://cdn.magloft.com/pdf-import/257/images/img_11-3.jpg",
+                "extension": "jpeg",
+                "contentType": "image/jpeg",
+                "__typename": "ArticleAssets"
+            },
+            {
+                "url": "https://cdn.magloft.com/pdf-import/257/images/img_13-1.jpg",
+                "extension": "jpeg",
+                "contentType": "image/jpeg",
+                "__typename": "ArticleAssets"
+            }
+        ],
+        "__typename": "Article"
+    },
+    {
+        "id": 144455,
+        "issueId": 44367,
+        "title": "MAY YAP",
+        "slug": "may-yap-71647501584",
+        "description": "Converted using MagLoft's Professional PDF to HTML Content Conversion Service",
+        "date": 1647501583000,
+        "cover": "https://cdn.magloft.com/publication-102/screenshots/articles/144455.jpg?ts=1647569208",
+        "image": "https://cdn.magloft.com/pdf-import/257/images/img_16-2.jpg",
+        "categoryIds": [
+            40131,
+            40125
+        ],
+        "pwaOptinId": null,
+        "seoDescription": "A Trailblazing Business Leader and an Inspiration for Emerging Women Leaders",
+        "position": 8,
+        "unlockType": "free",
+        "replicaPageIndex": 15,
+        "html": "<page-widget padding=\"0 0 32 0\" font-family=\"Times New Roman\"><columns-widget padding=\"0 0 32 0\" layout=\"9 3\"><column-widget><image-widget padding=\"0 0 16 0\" aspect-ratio=\"1.221276595744681\" magnify-label=\"center\" source=\"https://mms.magloft.com/ibdUfcEp5dRfaxZy/P9UrC9s7ll3GIiR1#image/png\"></image-widget><heading-widget padding=\"0 24 0 24\" align=\"center\" font-size=\"160\" type=\"h2\"><span style=\"color: rgb(238, 76, 67); font-family: &#x22;Helvetica Condensed&#x22;;\">MAY YAP</span></heading-widget><paragraph-widget padding=\"0 24 8 24\" align=\"center\"><span style=\"font-family: &#x22;Helvetica Condensed&#x22;;\">A Trailblazing Business Leader and an <br>Inspiration for Emerging Women Leaders</span></paragraph-widget></column-widget><column-widget><container-widget></container-widget></column-widget></columns-widget><columns-widget padding=\"0 24 32 24\" collapse=\"phone\" gutter=\"16\"><column-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">Over the past century, traditional and culture does not allow women to work and are homebound. The cultural and traditional factors that discriminate and hamper women's human rights are not only confined to traditional communities and societies and that is found everywhere including the western cultures. Today, we do see some countries have changed based on gender equality which sees more female ministers, CEOs, heads of departments, and holdings high ranking positions in the maledominated occupation. One such woman business leader is <span class=\"__bold\">May Yap, Chairwoman, CEO,</span> and <span class=\"__bold\">Managing Director at LHT Holdings Ltd. </span><br><br></paragraph-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">In December 1977 after graduated from GCE 'O” level, May joined former Lian Hup Timber &#x26; Trading before it was renamed LHT. May holds a Diploma in Sales and Marketing from the Marketing Institute of Singapore and has completed the Operation Management Innovation (OMNI) programmer conducted by A*Star in 2011. She is also a member of the Singapore Institute of Director.<br><br></paragraph-widget></column-widget><column-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">As a teenage admin clerk, she held multi-tasking jobs like receptionist, delivery arrangement, stock inventory, accounts, and housekeeping etc. The company had less than 20 employees in its workforce and on leasing land size not more than 100 sqm situated in Mandai area. As of 2nd January 1988, May was Sales Director in charge of all sales and marketing functions. She took the opportunity to be an Executive Director by purchased as one of the holders of the major shares during the company restructured for its listing.<br><br></paragraph-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">On 26-02-2016 May was appointed as Acting Managing Director and was re-designated as the Chairman, Managing Director and CEO on 10 February 2017. With over 20 years of experience, she plays a key role in exploring opportunities in new markets.<br><br></paragraph-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">May's primary responsibility is to monitor market developments and to ensure the Company's product development efforts is aligned to market demands. She is actively involved in the pallet rental business in Singapore, Malaysia and Vietnam.<br><br></paragraph-widget></column-widget><column-widget><heading-widget padding=\"0 0 16 0\" font-size=\"50\" type=\"h3\"><span style=\"color: rgb(15,15,26)\" class=\"__bold\">Challenges that Occur with the Time</span></heading-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\"><span style=\"color: rgb(15,15,26)\">“We saw little changes in the timber industry over the years. But today the world has changed to Digital Technology Transformation where 'pen &#x26; rulers' will be phasing out,” </span>says May. At LHT, the team faces many challenges besides innovative products, it is facing the new generation gaps where it is hard to find workers and staff entering the timber trade. May finds that the company is fortunate as the government provides funds to cope with the digital transformation. She adds, “We took the opportunities to collaborate with A'STAR since 2009 - The Agency for Science, Technology and Research (A*STAR) is a catalyst, enabler and convenor of significant research initiatives among the research community in Singapore and beyond.”<br><br></paragraph-widget></column-widget></columns-widget><columns-widget padding=\"0 24 32 24\" collapse=\"phone\" gutter=\"16\" layout=\"2 10\"><column-widget><container-widget flex=\"center left\"><image-widget padding=\"0 0 24 0\" aspect-ratio=\"0.8582089552238806\" magnify-label=\"center\" source=\"https://mms.magloft.com/ibdUfcEp5dRfaxZy/67wOCIvCl45wmCHD#image/png\" width=\"100px\"></image-widget></container-widget></column-widget><column-widget><paragraph-widget padding=\"0 0 32 0\" line-height=\"1.5\" font-size=\"130\"><span style=\"color: rgb(0, 0, 0)\"><span style=\"font-family: &#x22;Helvetica Condensed&#x22;; color: rgb(152, 152, 152);\" class=\"__bold\">Deforestation is one major cause of climate change. Recycling is one of the many efforts that reflect our commitment toward mitigating climate change and global warming</span><br></span></paragraph-widget></column-widget></columns-widget><image-widget padding=\"0 0 32 0\" parallax=\"0.6\" aspect-ratio=\"0.5337301587301587\" magnify-label=\"center\" source=\"https://cdn.magloft.com/pdf-import/257/images/img_18-1.jpg#image/jpeg\"></image-widget><columns-widget padding=\"0 24 0 24\" collapse=\"phone\"><column-widget><heading-widget padding=\"0 0 16 0\" font-size=\"50\" type=\"h3\"><span class=\"__bold\" style=\"color: rgb(15,15,26)\">Combining Innovation and Corporate Responsibilities</span></heading-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">According to May, wood pallets have been traditional for more than 60 years since world war two, to entice the target audience the company needs to provide a competitive one-stop solution. Besides selling wood and plastic pallets, LHT has technology pallets known as system pallets that cooperate with the RFID system. The company also manufactures environmentally-friendly pallets that make from recycling wood waste.<br><br></paragraph-widget></column-widget><column-widget><image-widget effects=\"W3sidHJpZ2dlciI6ImVudGVyLXZpZXciLCJhY3Rpb24iOnsidHlwZSI6ImFuaW1hdGlvbiIsIm9wdGlvbnMiOnsiZGVsYXkiOjIwMCwiZHVyYXRpb24iOjUwMCwiZmFkZSI6eyJmcm9tIjowLCJ0byI6MX0sIm1vdmUiOnsiZGlyZWN0aW9uIjoiYm90dG9tLXRvLXRvcCIsImRpc3RhbmNlIjoyMH19fX1d\" padding=\"0 0 32 0\" aspect-ratio=\"0.6808873720136519\" magnify-label=\"center\" source=\"https://cdn.magloft.com/pdf-import/257/images/img_18-2.jpg#image/jpeg\"></image-widget></column-widget></columns-widget><columns-widget padding=\"0 24 0 24\" collapse=\"phone\" gutter=\"16\"><column-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">With rapid changes in the industry, many uncertainty factors arise we can no longer do things of the past practice. The digital transformation has a great impact on the industry and with the internet, selling comes into the pictures and new digital business likes digital supply chain and warehouse are cater for their transhipment and storages before arriving in online end consumers. May opines, “We need to do in a smart way and not the hard way by bringing high-tech machine and technology and reduce the manpower that increases our productivity to adapt to the changing landscape.”<br><br></paragraph-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">LHT has been relentless in its efforts to provide products of cutting-edge technology, constantly investing and upgrading to ensure it is always able to meet changing market demands and provide the best value-added products and services to our customers.<br><br></paragraph-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">May asserts, “We are always conscious of our role in the conservation of natural resources and recycling is one of many efforts that reflect our commitment towards mitigating climate change and deforestation.” <br><br></paragraph-widget><heading-widget padding=\"0 0 16 0\" font-size=\"50\" type=\"h3\"><span style=\"color: rgb(15,15,26)\" class=\"__bold\">Action Speaks Louder than Words</span></heading-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">With social Media Era, there had been much positive thinking videos or lecture from YouTube Facebook or Titok etc. For May, her inspiration is her mother who looked after eight children and single-handedly built a chicken and duck farm, and a vegetable farm. “She was a tough woman, even the weather was never her concern,” says May.<br><br></paragraph-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">Seeing her mother's dazzling actions which were great reminds May of the statement “Action speaks louder than words”. May asserts, “She was perseverant, determined, with a never say never attitude. My mother works better than any man does, and the money she earned from the farming was used to pay for our siblings' school fees and our daily needs.” <br><br></paragraph-widget></column-widget><column-widget><heading-widget padding=\"0 0 16 0\" font-size=\"50\" type=\"h3\"><span style=\"color: rgb(15,15,26)\" class=\"__bold\">Serving during the Pandemic</span></heading-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">The Covid-19 pandemic is a testament to that proof the company is sustainable over the majority of companies that were shut down due to the lockdown period and LHT Holdings Ltd was one of the few companies that provide the essential service to the community as well as the society.<br><br></paragraph-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">As a pallet manufacturer, May finds them lucky to be considered as essential services as the company provides logistic support to the supply chain. Without pallets, goods cannot be transported and stored in warehouses. She says, “As for us, we remain status quo, except the reshuffle of our workforce to cope with the high demand from some sectors due to customers' stop work.” <br><br></paragraph-widget><heading-widget padding=\"0 0 16 0\" font-size=\"50\" type=\"h3\"><span style=\"color: rgb(15,15,26)\" class=\"__bold\">Be Fearless</span></heading-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">May sees many women are leaving their home as a housewife to join the society and many women are now holding the high ranking post. She could only post and set an example that a female clerk that it is possible comes one day she can be the top management.<br><br></paragraph-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\">As a successful woman business leader, May advises young women entrepreneurs that don't worry to fall, how it comes and how it goes. She asserts, “From the day you born you bring nothing, upon we die we should not have something but do a good deed. <br><br></paragraph-widget><paragraph-widget padding=\"0 0 0 0\" line-height=\"1.5\" font-size=\"90\"><span style=\"color: rgb(15,15,26)\">Lastly, earn from society and payback to society. Kind to everyone it is kind to ourselves and use our life to the fullest.”<br><br></span></paragraph-widget></column-widget></columns-widget><image-widget effects=\"W3sidHJpZ2dlciI6ImVudGVyLXZpZXciLCJhY3Rpb24iOnsidHlwZSI6ImFuaW1hdGlvbiIsIm9wdGlvbnMiOnsiZGVsYXkiOjIwMCwiZHVyYXRpb24iOjUwMCwiZmFkZSI6eyJmcm9tIjowLCJ0byI6MX0sIm1vdmUiOnsiZGlyZWN0aW9uIjoiYm90dG9tLXRvLXRvcCIsImRpc3RhbmNlIjoyMH19fX1d\" padding=\"8 0 0 0\" aspect-ratio=\"0.6160337552742616\" magnify-label=\"center\" source=\"https://cdn.magloft.com/pdf-import/257/images/img_19-1.jpg#image/jpeg\" width=\"300px\"></image-widget></page-widget>",
+        "articleAssets": [
+            {
+                "url": "https://cdn.magloft.com/pdf-import/257/images/img_18-1.jpg",
+                "extension": "jpeg",
+                "contentType": "image/jpeg",
+                "__typename": "ArticleAssets"
+            },
+            {
+                "url": "https://cdn.magloft.com/pdf-import/257/images/img_19-1.jpg",
+                "extension": "jpeg",
+                "contentType": "image/jpeg",
+                "__typename": "ArticleAssets"
+            },
+            {
+                "url": "https://cdn.magloft.com/reader/fonts/times-new-roman.css",
+                "extension": "css",
+                "contentType": "text/css",
+                "__typename": "ArticleAssets"
+            },
+            {
+                "url": "https://mms.magloft.com/ibdUfcEp5dRfaxZy/67wOCIvCl45wmCHD",
+                "extension": "png",
+                "contentType": "image/png",
+                "__typename": "ArticleAssets"
+            },
+            {
+                "url": "https://cdn.magloft.com/pdf-import/257/images/img_18-2.jpg",
+                "extension": "jpeg",
+                "contentType": "image/jpeg",
+                "__typename": "ArticleAssets"
+            },
+            {
+                "url": "https://mms.magloft.com/ibdUfcEp5dRfaxZy/P9UrC9s7ll3GIiR1",
+                "extension": "png",
+                "contentType": "image/png",
+                "__typename": "ArticleAssets"
+            },
+            {
+                "url": "https://cdn.magloft.com/reader/fonts/helvetica-condensed.css",
+                "extension": "css",
+                "contentType": "text/css",
+                "__typename": "ArticleAssets"
+            }
+        ],
+        "__typename": "Article"
+    }
+]
