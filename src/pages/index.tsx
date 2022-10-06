@@ -1,6 +1,5 @@
 import * as React from "react"
 import { Link } from "gatsby"
-import { StaticImage } from "gatsby-plugin-image"
 import logo from '../images/magloft-circle small-01.png';
 
 import Layout from "../components/layout"
@@ -8,7 +7,6 @@ import Seo from "../components/seo"
 import * as styles from "../components/index.module.css"
 import Article from "../components/article"
 import articles from "../static/articles.json"
-import Section from "../components/section"
 
 const samplePageLinks = [
   { text: "PDF Toggle View", url: "https://pwa.magloft.com/collections/nick-martin-s-publication-1658453455/where-there-s-a-wilt-there-s-a-31658453456"},
@@ -16,6 +14,36 @@ const samplePageLinks = [
   { text: "Opt-in", url: "https://pwa.magloft.com/collections/mustang-spring-2020/contents" },
   { text: "Interactive Reading Experience", url: "https://pwa.magloft.com/collections/magloft-features-see-what-magloft-can-do-for-you/article-129777" },
 ]
+
+interface ArticleAsset {
+  url: string,
+  extension: string,
+  contentType: string,
+  __typename: string
+}
+
+interface ArticleObject {
+  id: number,
+  issueId: number,
+  title: string,
+  slug: string,
+  description: string,
+  date: number,
+  cover: string,
+  image: string | null,
+  categoryIds: number[],
+  pwaOptinId: number | null,
+  seoDescription: string | null,
+  position: number,
+  unlockType: string,
+  replicaPageIndex: number | null,
+  html: string,
+  articleAssets: ArticleAsset[],
+  __typename: string
+}
+
+const articleArr = articles as ArticleObject[];
+
 
 const IndexPage = () => (
   <Layout type='home'>
@@ -36,10 +64,10 @@ const IndexPage = () => (
           <div className={styles.heroItems}>
             <div className={styles.cardGroup}>
               <p className={styles.cardTitle}>
-                {articles.length} articles from this collections
+                {articleArr.length} articles from this collections
               </p>
               <div className={styles.article}>
-                {articles.map(article => (
+                {articleArr.map(article => (
                   <a
                     href={`https://pwa.magloft.com/collections/oksana-kolesnikova/${article.slug}`}
                   >

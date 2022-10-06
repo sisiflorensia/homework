@@ -5,9 +5,9 @@ const SectionGroup = styled.div`
     background: black;
     height: 720px;
 `
-const SectionTitleGroup = styled.div``
-const SectionTitle = styled.h3``
-const SectionText = styled.p``
+const SectionTitleGroup: string = styled.div``
+const SectionTitle: string = styled.h3``
+const SectionText: string = styled.p``
 
 const Section = props => (
     <SectionGroup image={props.image}>
